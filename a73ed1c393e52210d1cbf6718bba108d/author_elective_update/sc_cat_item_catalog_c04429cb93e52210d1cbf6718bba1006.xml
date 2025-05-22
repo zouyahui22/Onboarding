@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Onboarding Computer Request">6614e1cb93e52210d1cbf6718bba10ee</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-21 01:23:57</sys_created_on>
+        <sys_id>c04429cb93e52210d1cbf6718bba1006</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Onboarding Computer Request</sys_name>
+        <sys_package display_value="Onboarding" source="x_1646508_onboar_0">a73ed1c393e52210d1cbf6718bba108d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Onboarding">a73ed1c393e52210d1cbf6718bba108d</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_c04429cb93e52210d1cbf6718bba1006</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-21 01:23:57</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Onboarding">a73ed1c393e52210d1cbf6718bba108d</application>
+        <file_path/>
+        <instance_id>9f716c07936de61c611eddd548373c1f</instance_id>
+        <instance_name>dev348808</instance_name>
+        <name>sc_cat_item_catalog_c04429cb93e52210d1cbf6718bba1006</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Onboarding Computer Request">6614e1cb93e52210d1cbf6718bba10ee</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-21 01:23:57</sys_created_on><sys_id>c04429cb93e52210d1cbf6718bba1006</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Onboarding Computer Request</sys_name><sys_package display_value="Onboarding" source="x_1646508_onboar_0">a73ed1c393e52210d1cbf6718bba108d</sys_package><sys_policy/><sys_scope display_value="Onboarding">a73ed1c393e52210d1cbf6718bba108d</sys_scope><sys_update_name>sc_cat_item_catalog_c04429cb93e52210d1cbf6718bba1006</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-21 01:23:57</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>2023380607</payload_hash>
+        <record_name>Service Catalog.Onboarding Computer Request</record_name>
+        <reverted_from/>
+        <source>e73ed1c393e52210d1cbf6718bba10b7</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-21 01:23:57</sys_created_on>
+        <sys_id>484429cb93e52210d1cbf6718bba1009</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>196f070a9950000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-21 01:23:57</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>884429cb5fe522102b9ea22044c04708</update_guid>
+        <update_guid_history>884429cb5fe522102b9ea22044c04708:2023380607</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Onboarding Computer Request">e94429cb93e52210d1cbf6718bba10b4</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-21 01:24:03</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>1568500ffe5a4ae08ad34f2189926100</sys_id>
+        <sys_metadata>c04429cb93e52210d1cbf6718bba1006</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Onboarding Computer Request</sys_name>
+        <sys_package display_value="Onboarding" source="x_1646508_onboar_0">a73ed1c393e52210d1cbf6718bba108d</sys_package>
+        <sys_parent display_value="Onboarding Computer Request">6614e1cb93e52210d1cbf6718bba10ee</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Onboarding">a73ed1c393e52210d1cbf6718bba108d</sys_scope>
+        <sys_scope_delete display_value="">7a7d285b5dd64b29a6373665eea40091</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_c04429cb93e52210d1cbf6718bba1006</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_c04429cb93e52210d1cbf6718bba1006">484429cb93e52210d1cbf6718bba1009</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-21 01:24:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

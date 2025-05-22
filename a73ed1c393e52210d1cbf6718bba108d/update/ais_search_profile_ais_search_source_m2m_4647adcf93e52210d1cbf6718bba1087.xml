@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_search_source_m2m">
+    <ais_search_profile_ais_search_source_m2m action="INSERT_OR_UPDATE">
+        <exclude_attachments_in_now_assist_genius_results>false</exclude_attachments_in_now_assist_genius_results>
+        <exclude_in_now_assist_genius_results>false</exclude_in_now_assist_genius_results>
+        <exclude_in_regular_search>false</exclude_in_regular_search>
+        <profile display_value="inventory Search Profile">18472dcf82e52210bea5bd226eb62b37</profile>
+        <search_source display_value="Inventory">0647adcf93e52210d1cbf6718bba1084</search_source>
+        <sys_class_name>ais_search_profile_ais_search_source_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-21 01:37:11</sys_created_on>
+        <sys_id>4647adcf93e52210d1cbf6718bba1087</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>inventory Search Profile.Inventory</sys_name>
+        <sys_package display_value="Onboarding" source="x_1646508_onboar_0">a73ed1c393e52210d1cbf6718bba108d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Onboarding">a73ed1c393e52210d1cbf6718bba108d</sys_scope>
+        <sys_update_name>ais_search_profile_ais_search_source_m2m_4647adcf93e52210d1cbf6718bba1087</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-21 01:37:11</sys_updated_on>
+    </ais_search_profile_ais_search_source_m2m>
+</record_update>

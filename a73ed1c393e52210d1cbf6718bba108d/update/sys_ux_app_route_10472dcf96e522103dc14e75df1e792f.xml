@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Inventory for Admin App Config">9c472dcfb3e52210d414d7b5658d3136</app_config>
+        <description/>
+        <extension_point/>
+        <fields/>
+        <icon/>
+        <name>Home</name>
+        <optional_parameters>sysId,edit</optional_parameters>
+        <order>0</order>
+        <parent_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>home</route_type>
+        <screen_type display_value="Home">58472dcf77e52210510179224fc19a2f</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-21 01:37:05</sys_created_on>
+        <sys_id>10472dcf96e522103dc14e75df1e792f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Home</sys_name>
+        <sys_package display_value="Onboarding" source="x_1646508_onboar_0">a73ed1c393e52210d1cbf6718bba108d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Onboarding">a73ed1c393e52210d1cbf6718bba108d</sys_scope>
+        <sys_update_name>sys_ux_app_route_10472dcf96e522103dc14e75df1e792f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-21 01:37:05</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=10472dcf96e522103dc14e75df1e792f"/>
+</record_update>

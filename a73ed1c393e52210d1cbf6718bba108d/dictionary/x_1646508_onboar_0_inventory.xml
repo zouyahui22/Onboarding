@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="bf1f990793e52210d1cbf6718bba10d7" label="Inventory" max_length="40" name="x_1646508_onboar_0_inventory" text_index="true" type="collection">
+        <element label="Assigner" max_length="32" name="assigner" reference="sys_user" type="reference"/>
+        <element display="true" label="Computer S/N" mandatory="true" max_length="8" name="computer_s_n" type="string"/>
+        <element choice="1" label="Computer Type" mandatory="true" max_length="32" name="computer_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="MacBook Pro 14" sequence="1" value="MacBook Pro 14"/>
+                <element inactive_on_update="false" label="MacBook Air" sequence="0" value="MacBook Air"/>
+                <element inactive_on_update="false" label="ThinkPad P14" sequence="2" value="ThinkPad P14"/>
+                <element inactive_on_update="false" label="Thinkpad T14" sequence="3" value="Thinkpad T14"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="assigner"/>
+        </index>
+        <index name="index2">
+            <element name="computer_type"/>
+        </index>
+    </element>
+</database>

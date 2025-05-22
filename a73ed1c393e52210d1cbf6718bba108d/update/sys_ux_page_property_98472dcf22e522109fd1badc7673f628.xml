@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>globalSearchDataConfigId</name>
+        <page display_value="Inventory for Admin">d8472dcf80e5221014d040f37d579337</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-21 01:37:06</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>98472dcf22e522109fd1badc7673f628</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>globalSearchDataConfigId</sys_name>
+        <sys_package display_value="Onboarding" source="x_1646508_onboar_0">a73ed1c393e52210d1cbf6718bba108d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Onboarding">a73ed1c393e52210d1cbf6718bba108d</sys_scope>
+        <sys_update_name>sys_ux_page_property_98472dcf22e522109fd1badc7673f628</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-21 01:37:06</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_1646508_onboar_0.d8472dcf80e5221014d040f37d579337.root.globalSearchDataConfigId</unique_name>
+        <value>90472dcf69e52210133c5f8773b68a30</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=98472dcf22e522109fd1badc7673f628"/>
+</record_update>

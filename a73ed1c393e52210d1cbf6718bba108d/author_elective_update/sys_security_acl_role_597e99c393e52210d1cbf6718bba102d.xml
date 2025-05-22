@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-21 00:58:38</sys_created_on>
+        <sys_id>597e99c393e52210d1cbf6718bba102d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1646508_onboar_0_computer_type.x_1646508_onboar_0.user</sys_name>
+        <sys_package display_value="Onboarding" source="x_1646508_onboar_0">a73ed1c393e52210d1cbf6718bba108d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Onboarding">a73ed1c393e52210d1cbf6718bba108d</sys_scope>
+        <sys_security_acl display_value="x_1646508_onboar_0_computer_type">117e99c393e52210d1cbf6718bba101e</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_597e99c393e52210d1cbf6718bba102d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-21 00:58:38</sys_updated_on>
+        <sys_user_role display_value="x_1646508_onboar_0.user" name="x_1646508_onboar_0.user">333ed1c393e52210d1cbf6718bba10c2</sys_user_role>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Onboarding">a73ed1c393e52210d1cbf6718bba108d</application>
+        <file_path/>
+        <instance_id>9f716c07936de61c611eddd548373c1f</instance_id>
+        <instance_name>dev348808</instance_name>
+        <name>sys_security_acl_role_597e99c393e52210d1cbf6718bba102d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-21 00:58:38</sys_created_on><sys_id>597e99c393e52210d1cbf6718bba102d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1646508_onboar_0_computer_type.x_1646508_onboar_0.user</sys_name><sys_package display_value="Onboarding" source="x_1646508_onboar_0">a73ed1c393e52210d1cbf6718bba108d</sys_package><sys_policy/><sys_scope display_value="Onboarding">a73ed1c393e52210d1cbf6718bba108d</sys_scope><sys_security_acl display_value="x_1646508_onboar_0_computer_type">117e99c393e52210d1cbf6718bba101e</sys_security_acl><sys_update_name>sys_security_acl_role_597e99c393e52210d1cbf6718bba102d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-21 00:58:38</sys_updated_on><sys_user_role display_value="x_1646508_onboar_0.user" name="x_1646508_onboar_0.user">333ed1c393e52210d1cbf6718bba10c2</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-1765418029</payload_hash>
+        <record_name>x_1646508_onboar_0_computer_type.x_1646508_onboar_0.user</record_name>
+        <reverted_from/>
+        <source>e73ed1c393e52210d1cbf6718bba10b7</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-21 00:58:38</sys_created_on>
+        <sys_id>997e99c393e52210d1cbf6718bba1030</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>196f0597dfd0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-21 00:58:38</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>9d7e99c342e522108fe948a4cb153b2f</update_guid>
+        <update_guid_history>9d7e99c342e522108fe948a4cb153b2f:-1765418029</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_1646508_onboar_0_computer_type.x_1646508_onboar_0.user">2933728793ad2210d1cbf6718bba1009</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-21 07:08:56</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>60f64bd5f8d54aa9baba0c85057bcce1</sys_id>
+        <sys_metadata>597e99c393e52210d1cbf6718bba102d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1646508_onboar_0_computer_type.x_1646508_onboar_0.user</sys_name>
+        <sys_package display_value="Onboarding" source="x_1646508_onboar_0">a73ed1c393e52210d1cbf6718bba108d</sys_package>
+        <sys_parent display_value="">117e99c393e52210d1cbf6718bba101e</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Onboarding">a73ed1c393e52210d1cbf6718bba108d</sys_scope>
+        <sys_scope_delete display_value="">7a7d285b5dd64b29a6373665eea40091</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_597e99c393e52210d1cbf6718bba102d</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_597e99c393e52210d1cbf6718bba102d">997e99c393e52210d1cbf6718bba1030</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-21 07:08:56</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

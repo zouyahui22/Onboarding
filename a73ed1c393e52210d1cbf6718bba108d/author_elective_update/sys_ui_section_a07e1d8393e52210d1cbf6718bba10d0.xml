@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="a07e1d8393e52210d1cbf6718bba10d0" sys_domain="global" table="x_1646508_onboar_0_computer_type" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>computer_type</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-21 01:12:07</sys_created_on>
+            <sys_id>f6812dc793e52210d1cbf6718bba10b5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1646508_onboar_0_computer_type" sys_domain="global" view="Default view">a07e1d8393e52210d1cbf6718bba10d0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-21 01:12:07</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption/>
+            <header>false</header>
+            <name>x_1646508_onboar_0_computer_type</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-21 00:58:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a07e1d8393e52210d1cbf6718bba10d0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1646508_onboar_0_computer_type</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Onboarding" source="x_1646508_onboar_0">a73ed1c393e52210d1cbf6718bba108d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Onboarding">a73ed1c393e52210d1cbf6718bba108d</sys_scope>
+            <sys_update_name>sys_ui_section_a07e1d8393e52210d1cbf6718bba10d0</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-21 00:58:35</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Onboarding">a73ed1c393e52210d1cbf6718bba108d</application>
+        <file_path/>
+        <instance_id>9f716c07936de61c611eddd548373c1f</instance_id>
+        <instance_name>dev348808</instance_name>
+        <name>sys_ui_section_a07e1d8393e52210d1cbf6718bba10d0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="a07e1d8393e52210d1cbf6718bba10d0" sys_domain="global" table="x_1646508_onboar_0_computer_type" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>computer_type</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-21 01:12:07</sys_created_on><sys_id>f6812dc793e52210d1cbf6718bba10b5</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1646508_onboar_0_computer_type" sys_domain="global" view="Default view">a07e1d8393e52210d1cbf6718bba10d0</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-21 01:12:07</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>x_1646508_onboar_0_computer_type</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-21 00:58:35</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>a07e1d8393e52210d1cbf6718bba10d0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1646508_onboar_0_computer_type</sys_name><sys_overrides/><sys_package display_value="Onboarding" source="x_1646508_onboar_0">a73ed1c393e52210d1cbf6718bba108d</sys_package><sys_policy/><sys_scope display_value="Onboarding">a73ed1c393e52210d1cbf6718bba108d</sys_scope><sys_update_name>sys_ui_section_a07e1d8393e52210d1cbf6718bba10d0</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-21 00:58:35</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-612751532</payload_hash>
+        <record_name>Computer Type</record_name>
+        <reverted_from/>
+        <source>e73ed1c393e52210d1cbf6718bba10b7</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-21 01:12:07</sys_created_on>
+        <sys_id>3a812dc793e52210d1cbf6718bba10b7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>196f065d5630000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-21 01:12:07</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>fe812dc73be52210b18badf20d6576b6</update_guid>
+        <update_guid_history>fe812dc73be52210b18badf20d6576b6:-612751532,647e19c3fce522106fb9acec4f7090d4:1482916689</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-21 07:09:00</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>06c91aa9f9aa451f80cb9bcc13c111c1</sys_id>
+        <sys_metadata>a07e1d8393e52210d1cbf6718bba10d0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1646508_onboar_0_computer_type</sys_name>
+        <sys_package display_value="Onboarding" source="x_1646508_onboar_0">a73ed1c393e52210d1cbf6718bba108d</sys_package>
+        <sys_parent display_value="">087e19c393e52210d1cbf6718bba1083</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Onboarding">a73ed1c393e52210d1cbf6718bba108d</sys_scope>
+        <sys_scope_delete display_value="">7a7d285b5dd64b29a6373665eea40091</sys_scope_delete>
+        <sys_update_name>sys_ui_section_a07e1d8393e52210d1cbf6718bba10d0</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_a07e1d8393e52210d1cbf6718bba10d0">3a812dc793e52210d1cbf6718bba10b7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-21 07:09:00</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

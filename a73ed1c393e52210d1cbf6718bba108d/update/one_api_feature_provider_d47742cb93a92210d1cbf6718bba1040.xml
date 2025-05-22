@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="one_api_feature_provider">
+    <one_api_feature_provider action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <feature display_value="0bcf07b243d4f1106ccb3fc9dbb8f26f">987742cb93a92210d1cbf6718bba103c</feature>
+        <feature_service display_value="OneExtendGenericProvider">5233278353111110c271ddeeff7b129b</feature_service>
+        <feature_service_factory><![CDATA[(function() { return new global.OneExtendGenericProvider(); })()]]></feature_service_factory>
+        <name>Participant Suggestions provider</name>
+        <short_description>Auto Generated </short_description>
+        <sys_class_name>one_api_feature_provider</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-21 03:57:42</sys_created_on>
+        <sys_id>d47742cb93a92210d1cbf6718bba1040</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Participant Suggestions provider</sys_name>
+        <sys_package display_value="Onboarding" source="x_1646508_onboar_0">a73ed1c393e52210d1cbf6718bba108d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Onboarding">a73ed1c393e52210d1cbf6718bba108d</sys_scope>
+        <sys_update_name>one_api_feature_provider_d47742cb93a92210d1cbf6718bba1040</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-21 03:57:42</sys_updated_on>
+        <type>script</type>
+        <type_document display_value="ParticipantSuggestionsPrediction">cea94f19a37482106cdec213d51e61d7</type_document>
+    </one_api_feature_provider>
+</record_update>

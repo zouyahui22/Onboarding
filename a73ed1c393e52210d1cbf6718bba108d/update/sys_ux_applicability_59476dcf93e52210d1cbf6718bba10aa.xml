@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_applicability">
+    <sys_ux_applicability action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <api_name>x_1646508_onboar_0.Audience for app inventory</api_name>
+        <description/>
+        <name>Audience for app inventory</name>
+        <role_names/>
+        <roles name="x_1646508_onboar_0.admin">b33ed1c393e52210d1cbf6718bba10bc</roles>
+        <sys_class_name>sys_ux_applicability</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-21 01:37:08</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>59476dcf93e52210d1cbf6718bba10aa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Audience for app inventory</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Onboarding" source="x_1646508_onboar_0">a73ed1c393e52210d1cbf6718bba108d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Onboarding">a73ed1c393e52210d1cbf6718bba108d</sys_scope>
+        <sys_update_name>sys_ux_applicability_59476dcf93e52210d1cbf6718bba10aa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-21 01:37:08</sys_updated_on>
+    </sys_ux_applicability>
+</record_update>

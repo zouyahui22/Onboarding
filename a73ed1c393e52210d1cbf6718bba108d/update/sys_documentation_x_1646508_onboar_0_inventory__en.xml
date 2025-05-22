@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Inventory" language="en" table="x_1646508_onboar_0_inventory">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Inventory</label>
+            <language>en</language>
+            <name>x_1646508_onboar_0_inventory</name>
+            <plural>Inventories</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-21 01:01:32</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Inventory</sys_name>
+            <sys_package display_value="Onboarding" source="x_1646508_onboar_0">a73ed1c393e52210d1cbf6718bba108d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Onboarding">a73ed1c393e52210d1cbf6718bba108d</sys_scope>
+            <sys_update_name>sys_documentation_x_1646508_onboar_0_inventory__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-21 01:01:32</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

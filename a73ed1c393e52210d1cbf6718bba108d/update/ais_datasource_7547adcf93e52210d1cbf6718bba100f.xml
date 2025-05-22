@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_datasource">
+    <ais_datasource action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <conflict>false</conflict>
+        <filter/>
+        <force_late_binding>false</force_late_binding>
+        <name>Computer Type Table</name>
+        <retention_policy/>
+        <source>x_1646508_onboar_0_computer_type</source>
+        <sys_class_name>ais_datasource</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-21 01:37:10</sys_created_on>
+        <sys_id>7547adcf93e52210d1cbf6718bba100f</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Computer Type Table</sys_name>
+        <sys_package display_value="Onboarding" source="x_1646508_onboar_0">a73ed1c393e52210d1cbf6718bba108d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Onboarding">a73ed1c393e52210d1cbf6718bba108d</sys_scope>
+        <sys_update_name>ais_datasource_7547adcf93e52210d1cbf6718bba100f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-21 01:37:11</sys_updated_on>
+        <type>internal</type>
+    </ais_datasource>
+</record_update>
